@@ -63,7 +63,7 @@ Highlights business performance through comparative financial metrics and visual
 
 ## Dashboard Preview
 
-![Financial Performance Dashboard](screenshots/Dashboard_Overview.png)
+![Financial Performance Dashboard](Dashboard_Overview.png)
 ## Skills Demonstrated
 
 * Power BI Dashboard Development
