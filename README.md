@@ -57,8 +57,8 @@ Highlights business performance through comparative financial metrics and visual
 
 ## Files Included
 
-* Financial_Performance_Dashboard.pbix
-* Financial_Performance_Dashboard.pdf
+* Financial_KPI_Dashboard.pbix
+* Dashboard.pdf
 * Dashboard Screenshot
 
 ## Dashboard Preview
