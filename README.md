@@ -55,16 +55,15 @@ Highlights business performance through comparative financial metrics and visual
 * Visual analysis improves understanding of financial patterns and growth trends.
 * Interactive reporting supports data-driven decision-making.
 
-## Files Included
 
-* Financial_KPI_Dashboard.pbix
-* Dashboard.pdf
-* Dashboard Screenshot
+## Project Files
+
+- [Power BI Dashboard File](Financial_KPI_Dashboard.pbix)
+- [Dashboard PDF](Dashboard.pdf)
 
 ## Dashboard Preview
 
-![Financial Performance Dashboard](Dashboard_Overview.png)
-
+![Financial Performance Dashboard](screenshots/Dashboard_Overview.png)
 ## Skills Demonstrated
 
 * Power BI Dashboard Development
